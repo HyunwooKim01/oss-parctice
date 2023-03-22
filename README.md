@@ -1,5 +1,5 @@
 # oss - practice
 
-first oss class \n
+first oss class
 
 I want to be a greatest programer!!!!
