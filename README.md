@@ -1,3 +1,4 @@
-# animated-garbanzo
+# oss - practice
 
-first project
+first oss class
+I want to be a greatest programer!!!!
